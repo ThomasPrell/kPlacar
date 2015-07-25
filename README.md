@@ -1,0 +1,2 @@
+# kPlacar
+emulates kPlacar
